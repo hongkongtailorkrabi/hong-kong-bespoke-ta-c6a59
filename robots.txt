@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hong-kong-bespoke-ta-c6a59.pages.dev/sitemap.xml
