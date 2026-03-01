@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://hongkongtailorkrabi.github.io/hong-kong-bespoke-ta-c6a59/sitemap.xml
-Sitemap: https://hong-kong-bespoke-ta-c6a59.netlify.app/sitemap.xml
